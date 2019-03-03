@@ -1,0 +1,4 @@
+package tdd;
+
+interface Expression {
+}
